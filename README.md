@@ -1,4 +1,4 @@
-# E-Commerce 
+# Pulse Commerce 
 
 ## Table of Contents
 - Description
@@ -29,7 +29,8 @@ You can create, update, and delete items for the e-commerce website.
 
 ## Links 
 
-Repository Link: https://github.com/Alondra1752/E-Commerce
+Repository Link: https://github.com/Alondra1752/Pulse-Commerce
+
 
 ## Walkthrough Video 
 
