@@ -4,9 +4,9 @@
 - Description
 - Installation
 - Usage
-- Credits
 - Links
 - Video 
+- Credits 
 - License
 
 ## Description 
@@ -26,6 +26,15 @@ After installation follow these steps:
 - Open Insomnia to make requests
 
 You can create, update, and delete items for the e-commerce website. 
+
+## Links 
+
+Repository Link: https://github.com/Alondra1752/E-Commerce
+
+## Walkthrough Video 
+
+
+
 
 ## Credits 
 - W3 Schools, ChatGPT, Xpert Learning Assistant
